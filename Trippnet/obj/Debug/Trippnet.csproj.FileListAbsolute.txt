@@ -1,0 +1,7 @@
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\bin\Debug\Trippnet.exe.config
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\bin\Debug\Trippnet.exe
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\bin\Debug\Trippnet.pdb
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\obj\Debug\Trippnet.csprojAssemblyReference.cache
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\obj\Debug\Trippnet.csproj.CoreCompileInputs.cache
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\obj\Debug\Trippnet.exe
+C:\Users\TheBitBrine-PC\source\repos\Trippnet\Trippnet\obj\Debug\Trippnet.pdb
